@@ -314,7 +314,7 @@ This makes the deployment **automated and repeatable**.
 
 ### Deployment Diagram
 
-<img src="https://github.com/user-attachments/assets/bb76051e-80b3-49e7-8423-00070083ffff" alt="AWS Deployment Diagram" width="900"/>
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/1d0fc52d-3575-40dd-bc24-97816359a925" />
 
 ---
 
